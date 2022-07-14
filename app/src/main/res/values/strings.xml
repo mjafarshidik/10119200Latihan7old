@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="search_hint">Enter a Github\'s username</string>
+    <string name="user_not_found">User not found please search\n for another username.</string>
+    <string name="search_guide">You can search a Github\'s username\n in the search bar above.</string>
+    <string name="content_description">User Avatar</string>
+    <string name="followers_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="username_detail">%s\'s profile</string>
+    <string name="repository">%d\n repository</string>
+    <string name="gist">%d\n gist</string>
+    <string name="following">%d\n following</string>
+    <string name="follower">%d\n follower</string>
+    <string name="location_placeholder">Location</string>
+    <string name="website_placeholder">Website</string>
+    <string name="company_placeholder">Company Name</string>
+    <string name="name_placeholder">Name</string>
+    <string name="username_placeholder">Username</string>
+    <string name="place_holder_pic">placeholder picture</string>
+    <string name="search">Search</string>
+    <string name="no_blog">(Blog not set).</string>
+    <string name="no_location">(Location not set).</string>
+    <string name="no_company">(Company not set).</string>
+    <string name="no_name">(Name not set).</string>
+    <string name="no_bio">(Bio not set).</string>
+    <string name="favorite_button">fav button</string>
+    <string name="theme_setting">Theme Setting</string>
+    <string name="moon_icon">moon icon</string>
+    <string name="sun_icon">sun icon</string>
+    <string name="favorite_user">Favorite User</string>
+
+    <string-array name="tab_title">
+        <item>@string/followers_title</item>
+        <item>@string/following_title</item>
+    </string-array>
+</resources>
